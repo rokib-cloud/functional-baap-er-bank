@@ -1,4 +1,3 @@
-// DRY ---> Do not Repeat yourself
 document.getElementById('btn-deposit').addEventListener('click', function () {
     /* 
     1. get the element by id
